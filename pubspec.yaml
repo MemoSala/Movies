@@ -1,0 +1,67 @@
+name: movies
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+  rflutter_alert: ^2.0.4
+  url_launcher: ^6.0.12 # للأنتقال لموقع اخر
+  firebase_core: ^2.4.1 # ربط المشروع بقواعد البينات
+  firebase_auth: ^4.2.4 # عمليات المصادقه للحساب
+  cloud_firestore: ^4.3.1 # تخزين البينات و التعديل عليها
+  firebase_storage: ^11.0.10 # حفظ الصور والملفات
+  firebase_messaging: ^14.2.1 # الاشعارات
+  google_sign_in: ^6.1.6 # لتسجيل الدخول بجوجال
+  flutter_facebook_auth: ^6.0.3 # لتسجيل الدخول بفاس بك
+  flutter_speed_dial: ^7.0.0 #floatingActionButton
+  image_picker: ^1.0.4 # تقوم بالبحث عن صوره # تعديل جودة الصوره
+  youtube_player_iframe: ^4.0.1 # عرض الفديوهات
+  connectivity_plus: ^5.0.2 # أتصال الانترنت
+  font_awesome_flutter: ^10.4.0 # icon
+  modal_progress_hud_nsn: ^0.4.0 
+  jiffy: ^6.2.1
+  http: ^1.2.2
+  shared_preferences: ^2.0.3
+  awesome_dialog: ^3.1.0
+  dropdown_search: ^5.0.6
+  # Ads ------------------------
+  google_mobile_ads: ^3.1.0
+  # Ads ------------------------
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - images/
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700

@@ -1,0 +1,21 @@
+{
+    "language": "Español",
+
+    "search":"Search",
+    "watchlist": "Lista",
+    "signIn": "Iniciar sesión",
+
+    "hMovie": "Películas",
+    "hSeries": "Series",
+    "hAnimeMovie": "Películas de Anime",
+    "hAnime": "Anime",
+
+    "hp1UpNext": "Hasta la próxima",
+    "hp1BT": "Explorar tráileres >",
+    "hp2": "Lo mejor de esta semana",
+    "trailer": "Remolque",
+
+    "close": "Cerca",
+    "official" :"adelanto oficial",
+    "related": "Videos relacionados"
+}

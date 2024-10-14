@@ -1,0 +1,22 @@
+{
+    "language": "Deutsch",
+    
+    "search":"Suche",
+    "watchlist": "Meine Liste",
+    "signIn": "Einloggen",
+
+    "hMovie": "Filme",
+    "hSeries": "Serie",
+    "hAnimeMovie": "Anime Filme",
+    "hAnime": "Anime",
+
+    "hp1UpNext": "Als nächstes",
+    "hp1BT": "Trailer durchsuchen >",
+    "hp2": "Die Spitze dieser Woche",
+    "trailer": "Anhänger",
+
+    "close": "Schließen",
+    "official" :"Offizieller Trailer",
+    "related": "Ähnliche Videos"
+
+}

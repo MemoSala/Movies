@@ -1,0 +1,36 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The current Language"
+    },
+
+    "search": "Search",
+    "watchlist": "Watchlist",
+    "signIn": "Sign in" ,
+    "@signIn":{
+        "description": "The translate appBar"
+    },
+
+    "hMovie": "Movies",
+    "hSeries": "Series",
+    "hAnimeMovie": "Anime Movies",
+    "hAnime": "Anime",
+    "@hMovie": {
+        "description": "The translate Home"
+    },
+
+    "hp1UpNext": "Up next",
+    "hp1BT": "Browse trailers >",
+    "hp2": "This week's top",
+    "trailer": "Trailer",
+    "@hp2": {
+        "description": "The translate part 1 and part 2 on Home"
+    },
+
+    "close": "Close",
+    "official": "Official Trailer",
+    "related": "Related videos",
+    "@official": {
+        "description": "The translate trailer"
+    }
+}
